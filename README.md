@@ -1,4 +1,4 @@
-# Emoji Faces NFT Minting dApp
+# Emoji Faces NFT Minting dApp check
 
 This a complete example of fullstack NFT minting dApp. **EmojiFaces** is built with the purpose of providing an _entry point for future NFT Minting Website_ projects.
 
